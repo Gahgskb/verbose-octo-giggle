@@ -14,7 +14,7 @@ commands:
           name: Running all unit tests 
           command: |
               #sudo bash tes
-              docker run #ricardmodi/pitu:latest
+              docker run ricardmodi/pitu:latest
 
   babu:
     steps:
